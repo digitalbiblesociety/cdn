@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="102px" viewBox="0 0 101 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_type_ethnologue</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="99.009901" height="99.21875" rx="9"></rect>
+        <filter x="-4.5%" y="-4.5%" width="109.1%" height="109.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.910495924   0 0 0 0 0.910495924   0 0 0 0 0.910495924  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BibleCloud-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BibleCloud" transform="translate(-894, -10222)">
+            <g id="logo_type_ethnologue" transform="translate(895, 10223)">
+                <g id="Rectangle">
+                    <use fill="#FCFCFC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#CCCCCC" stroke-width="2" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" transform="translate(17, 15)" fill-rule="nonzero">
+                    <rect id="Rectangle" fill="#D9D9D9" x="0" y="0" width="67" height="67" rx="4"></rect>
+                    <polygon id="Path" fill="#FFB71B" points="44.596875 44.596875 67 44.596875 67 67 44.596875 67"></polygon>
+                    <polygon id="Path" fill="#93358D" points="44.596875 22.403125 67 22.403125 67 44.80625 44.596875 44.80625"></polygon>
+                    <polygon id="Path" fill="#00A7E1" points="44.596875 0 67 0 67 22.403125 44.596875 22.403125"></polygon>
+                    <polygon id="Path" fill="#005CB9" points="0 0 50.25 0 50.25 67 0 67"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
