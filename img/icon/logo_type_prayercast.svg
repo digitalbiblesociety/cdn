@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_type_prayercast</title>
+    <defs>
+        <rect id="path-1" x="5.68434189e-14" y="0" width="99.009901" height="99.21875" rx="12"></rect>
+        <filter x="-4.0%" y="-4.0%" width="108.1%" height="108.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.910495924   0 0 0 0 0.910495924   0 0 0 0 0.910495924  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BibleCloud-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BibleCloud" transform="translate(-1228, -9766)">
+            <g id="logo_type_prayercast" transform="translate(1229, 9767)">
+                <g id="Rectangle">
+                    <use fill="#104363" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#CCCCCC" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="prayercast_logo" transform="translate(20, 3)" fill-rule="nonzero">
+                    <path d="M51.8878243,28 C51.9677176,38.754428 49.3685889,45.6063188 42.0162949,53.3709909 C37.7253551,57.9023456 33.1131098,62.1309718 28.7561378,66.602202 C26.2946566,69.1285783 24.3504598,72.0176161 23.4454525,75.5287697 C21.8903262,81.5603638 24.6800434,86.4700814 27.6002851,92 C28.4533136,85.9605553 31.4726999,81.6026807 35.2045796,77.6744854 C37.3563062,75.4100527 39.6056373,73.2338918 41.8703695,71.0797511 C47.1067445,66.0997607 52.434756,61.2013404 56.0545927,54.8329344 C61.1660263,45.8410723 59.5290816,34.7398755 51.8878243,28 L51.8878243,28 Z" id="Path" fill="#FCFCFC"></path>
+                    <path d="M32.50517,54.2380803 C37.4878202,49.4039162 42.443819,44.5501258 45.2920409,38.0850745 C48.8471039,30.0154312 46.7625021,20.1051091 39.8764023,14 C40.1218654,17.4279311 39.8167263,20.2960366 39.1446479,23.1288911 C37.1525535,31.5270364 31.7531375,37.7287526 25.7073288,43.5272723 C21.6982266,47.3725002 17.3588791,50.9014209 14.07651,55.4442394 C9.42217395,61.8847103 10.1141443,71.3945038 15.7093901,77 C15.9527288,73.3672315 17.5722833,70.2982899 19.6821846,67.467722 C23.3737876,62.5152286 28.0941727,58.5183257 32.50517,54.2380803 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M21.5047812,40.2383925 C26.487565,35.4042138 31.4436968,30.5504088 34.2919951,24.0851473 C37.8471534,16.0156702 35.7624957,6.10531808 28.8762112,0 C29.1216809,3.42794146 28.8165337,6.29605568 28.1444372,9.12891869 C26.1522894,17.5268989 20.7527285,23.7286338 14.7077233,29.5271711 C10.6985136,33.3724106 6.35904964,36.901342 3.0765925,41.4441743 C-1.57786837,47.8846646 -0.885879439,57.3944868 4.70951643,63 C4.95286169,59.3672205 6.57245957,56.2982697 8.68241745,53.4676932 C12.3731539,48.5155659 17.0936656,44.5186509 21.5047812,40.2383925 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

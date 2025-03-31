@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="1000">
+
+<g transform="scale(10, -10), translate(25 -100)">
+  <line y2="100" stroke-width="50" stroke="#FFF" />
+  <circle cx="-14.77" cy="89" r="7.82" fill="#F00"/>
+  <circle cx="-11.37" cy="89" r="7.82" fill="#FFF"/>
+  <polygon points="15.83,97.85, 17.6374,92.1377, 23.6287,92.1839, 18.7545,88.6998, 20.6498,83.0161, 15.83,86.575, 11.0102,83.0161, 12.9055,88.6998, 8.0313,92.1839, 14.0226,92.1377"  fill="#F00" />
+  <line y1="3" y2="97" stroke-width="10" stroke="#F00" />
+  <line x1="-22" y1="73.2634" x2="22" y2="73.2634" stroke-width="10" stroke="#F00" />
+  </g>
+</svg>
