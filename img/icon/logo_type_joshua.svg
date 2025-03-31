@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="102px" viewBox="0 0 101 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_type_joshua</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="99.009901" height="99.21875" rx="9"></rect>
+        <filter x="-4.5%" y="-4.5%" width="109.1%" height="109.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.910495924   0 0 0 0 0.910495924   0 0 0 0 0.910495924  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BibleCloud-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BibleCloud" transform="translate(-391, -9778)">
+            <g id="logo_type_joshua" transform="translate(392, 9779)">
+                <g id="Rectangle">
+                    <use fill="#FCFCFC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#CCCCCC" stroke-width="2" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-3" transform="translate(8.3101, 6.0329)" fill-rule="nonzero">
+                    <circle id="Oval" fill="#ED7C31" cx="42.7364884" cy="6.54583987" r="6.54583987"></circle>
+                    <circle id="Oval" fill="#00BBD6" cx="27.6456264" cy="8.30388084" r="4.82282502"></circle>
+                    <circle id="Oval-4" fill="#F4BB3A" cx="59.480313" cy="10.0255485" r="5.51256982"></circle>
+                    <circle id="Oval" fill="#42AD9E" cx="42.391616" cy="19.5701617" r="2.79131101"></circle>
+                    <circle id="Oval" fill="#42AD9E" cx="69.8844129" cy="16.5377095" r="2.79131101"></circle>
+                    <circle id="Oval" fill="#ED7C31" transform="translate(16.345, 13.8504) rotate(-13.28) translate(-16.345, -13.8504)" cx="16.3449576" cy="13.8504408" r="3.68582381"></circle>
+                    <circle id="Oval" fill="#42AD9E" transform="translate(10.3162, 24.2206) rotate(-9.22) translate(-10.3162, -24.2206)" cx="10.3161936" cy="24.2206148" r="4.68541492"></circle>
+                    <circle id="Oval" fill="#F4BB3A" transform="translate(28.5072, 21.1563) rotate(-13.28) translate(-28.5072, -21.1563)" cx="28.5071941" cy="21.1563321" r="5.20272352"></circle>
+                    <circle id="Oval" fill="#F4BB3A" cx="72.1934414" cy="59.707382" r="5.20272352"></circle>
+                    <circle id="Oval" fill="#ED7C31" cx="20.1352216" cy="30.2154029" r="2.65255376"></circle>
+                    <circle id="Oval" fill="#ED7C31" cx="64.132049" cy="39.1389763" r="2.65255376"></circle>
+                    <circle id="Oval" fill="#00BBD6" transform="translate(9.2491, 39.5514) rotate(-67.5) translate(-9.2491, -39.5514)" cx="9.24913658" cy="39.5513646" r="6.54583987"></circle>
+                    <circle id="Oval" fill="#00BBD6" cx="57.6198881" cy="25.2538206" r="6.61454492"></circle>
+                    <circle id="Oval" fill="#00BBD6" cx="26.1651" cy="58.742817" r="6.61454492"></circle>
+                    <circle id="Oval" fill="#ED7C31" cx="73.9164563" cy="27.425439" r="6.16728853"></circle>
+                    <circle id="Oval" fill="#ED7C31" cx="57.7572982" cy="54.1261071" r="5.68500602"></circle>
+                    <circle id="Oval" fill="#F4BB3A" cx="21.7194792" cy="46.0296886" r="2.79131101"></circle>
+                    <circle id="Oval" fill="#F4BB3A" cx="15.4498066" cy="66.459337" r="2.79131101"></circle>
+                    <circle id="Oval" fill="#42AD9E" transform="translate(10.698, 54.9508) rotate(-9.22) translate(-10.698, -54.9508)" cx="10.698014" cy="54.950759" r="4.82282502"></circle>
+                    <circle id="Oval" fill="#42AD9E" transform="translate(59.2391, 72.5917) rotate(-67.5) translate(-59.2391, -72.5917)" cx="59.239149" cy="72.5917433" r="4.82282502"></circle>
+                    <circle id="Oval" fill="#42AD9E" transform="translate(76.0535, 44.4756) rotate(-9.22) translate(-76.0535, -44.4756)" cx="76.0535213" cy="44.4755896" r="4.82282502"></circle>
+                    <circle id="Oval" fill="#ED7C31" transform="translate(26.4715, 72.9735) rotate(-13.28) translate(-26.4715, -72.9735)" cx="26.4715284" cy="72.9735064" r="4.78914607"></circle>
+                    <circle id="Oval" fill="#F4BB3A" transform="translate(42.183, 74.7305) rotate(-13.28) translate(-42.183, -74.7305)" cx="42.1830121" cy="74.7305392" r="6.95941733"></circle>
+                    <circle id="Oval" fill="#00BBD6" cx="45.5965045" cy="62.9109233" r="2.79131101"></circle>
+                    <polygon id="Path" fill="#ED7C31" points="55.4832957 36.037819 45.9750558 36.037819 45.9750558 26.6669892 37.9123162 26.6669892 37.9123162 36.037819 28.6101914 36.037819 28.6101914 44.1692636 37.9123162 44.1692636 37.9123162 55.951506 45.9750558 55.951506 45.9750558 44.1692636 55.4832957 44.1692636"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

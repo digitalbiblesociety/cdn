@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="102px" viewBox="0 0 101 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>glotto_type_logo</title>
+    <defs>
+        <linearGradient x1="15.1786132%" y1="11.4942389%" x2="90.8253497%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#153C5A" offset="0%"></stop>
+            <stop stop-color="#325D85" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="5.68434189e-14" y="0" width="99.009901" height="99.21875" rx="9"></rect>
+        <filter x="-4.5%" y="-4.5%" width="109.1%" height="109.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.910495924   0 0 0 0 0.910495924   0 0 0 0 0.910495924  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BibleCloud-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BibleCloud" transform="translate(-559, -9772)">
+            <g id="glotto_type_logo" transform="translate(560, 9773)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#CCCCCC" stroke-width="2" xlink:href="#path-2"></use>
+                </g>
+                <path d="M48.1139604,86.8821376 C43.3913119,86.8821376 37.3533855,85.8520452 30,83.7918294 L30,73.9028432 C37.9239068,77.5795359 44.4372605,79.4178547 49.5402565,79.4178547 C53.4705143,79.4178547 56.6321056,78.3877623 59.0251255,76.3275465 C61.4181454,74.2673308 62.6146373,71.5573953 62.6146373,68.1976588 C62.6146373,65.4401392 61.8301823,63.094698 60.2612488,61.1612647 C58.6923152,59.2278315 55.8001326,57.0725612 51.5846142,54.6953891 L46.7352075,51.8903401 C40.744734,48.4672124 36.521355,45.2422307 34.0649439,42.2152983 C31.6085328,39.1883659 30.3803456,35.6622803 30.3803456,31.6369356 C30.3803456,26.2169834 32.345445,21.7558908 36.2757028,18.2535239 C40.2059606,14.7511571 45.2137946,13 51.299355,13 C56.7193072,13 62.4402821,13.9033118 68.4624513,15.7099626 L68.4624513,24.8382576 C61.0456745,21.9222599 55.5148706,20.4642829 51.8698734,20.4642829 C48.4150501,20.4642829 45.5624864,21.3834423 43.3120969,23.2217887 C41.0617073,25.060135 39.9365294,27.3738811 39.9365294,30.1630963 C39.9365294,32.5085727 40.7606034,34.5846052 42.408776,36.3912559 C44.0569486,38.1979067 47.067988,40.353177 51.4419846,42.8571316 L56.4815641,45.7097237 C62.5671246,49.1645471 66.8142749,52.4291477 69.2231426,55.5036236 C71.6320102,58.5780994 72.836426,62.2705846 72.836426,66.5811899 C72.836426,72.698446 70.5781464,77.6111945 66.0615196,81.3195829 C61.5448927,85.0279712 55.5624328,86.8821376 48.1139604,86.8821376 Z" id="S" fill="#F6F6F6" fill-rule="nonzero" transform="translate(51.4182, 49.9411) rotate(90) translate(-51.4182, -49.9411)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

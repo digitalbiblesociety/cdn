@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="101px" viewBox="0 0 100 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_type_sil</title>
+    <g id="BibleCloud-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BibleCloud" transform="translate(-244, -9772)" fill-rule="nonzero">
+            <g id="logo_type_sil" transform="translate(244, 9772)">
+                <polygon id="Path" fill="#FFFFFF" points="3.71287129 3.06 96.7227723 3.06 96.7227723 95.06 3.71287129 95.06"></polygon>
+                <rect id="Rectangle" fill="#0068A6" x="0.722772277" y="0.06" width="99.009901" height="100" rx="8"></rect>
+                <g id="Group" transform="translate(0, 25)" fill="#FFFFFF">
+                    <polygon id="Path" points="45.9306931 0.83 54.5148515 0.83 54.5148515 45.94 45.9306931 45.94"></polygon>
+                    <path d="M32.5643564,21.72 C29.5940594,18.14 23.8217822,16.64 23.8217822,12.89 C23.8309506,10.7287228 25.3537219,8.87641877 27.4554455,8.47 C30.2635394,8.23067084 33.088107,8.65876406 35.7029703,9.72 L36.9405941,1.47 C36.9405941,1.47 20.1089109,-1.74 16.3168317,6.14 C13.8361966,11.1944887 14.7935368,17.2808288 18.7029703,21.31 C21.4356436,24.14 29.019802,28.25 28.1980198,33.06 C27.4554455,37.39 23,37 23,37 L0.722772277,37.17 L0.722772277,46.09 L23,46.09 C23,46.09 34.2178218,45.75 37.019802,37.42 C39.3366337,30.39 35.950495,25.14 32.5643564,21.72 L32.5643564,21.72 Z" id="Path"></path>
+                    <polygon id="Path" points="99.7227723 46 99.7227723 37.33 72.990099 37.33 72.990099 0.83 64.4158416 0.83 64.4158416 45.94 71.0693069 45.94 71.0693069 46"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
